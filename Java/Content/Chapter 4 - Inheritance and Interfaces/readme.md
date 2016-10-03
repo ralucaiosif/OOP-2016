@@ -4,7 +4,7 @@
 Understand what interfaces are and why they are a powerful tool.
 
 ## Duration
-We recommend you to finish the reading list and the given assignments in 1 week (`3/08 - 9/08`).
+We recommend you to finish the reading list and the given assignments in 1 week (`31/10 - 7/11`).
 
 ## Video list
 1. [The New Boston tutorials](https://www.youtube.com/watch?v=0xw06loTm1k&index=55&list=PLFE2CE09D83EE3E28) (videos 49, 55-59)
@@ -13,7 +13,7 @@ We recommend you to finish the reading list and the given assignments in 1 week 
 
 
 ## Reading list
-1. [Interfaces](https://github.com/JavaSummer/JavaMainRepo/blob/master/Books%20%2B%20Material/OOP%20Lab/07-Interfaces.pdf) (Books + Material/OOP Lab/07-Interfaces.pdf)
+1. [Interfaces](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Books%20%2B%20Material/OOP%20Lab/07-Interfaces.pdf)
 2. [Head First Java - re-read chapter 8  (pdf pages 218-255)](http://it-ebooks.info/book/3214/)
 
 ## Play around with...
@@ -21,5 +21,5 @@ We recommend you to finish the reading list and the given assignments in 1 week 
 2. [More Interfaces/abstract classes questions](http://interview-questions-java.com/abstract-class-interface.htm)
 
 
-## [Assignments](https://github.com/JavaSummer/JavaMainRepo/tree/master/Content/Chapter%204%20-%20Inheritance%20and%20Interfaces/Assignments)
-- 4.1 - [Zoo (part 2)](https://github.com/OOP-2015-Sem1/OOP-2015/blob/master/Java/Content/Chapter%204%20-%20Inheritance%20and%20Interfaces/Assignments/Zoo%20(part%202).pdf)
+## [Assignments](https://github.com/OOP-30221/OOP-2016/tree/master/Java/Content/Chapter%204%20-%20Inheritance%20and%20Interfaces)
+- 4.1 - [Zoo (part 2)](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Content/Chapter%204%20-%20Inheritance%20and%20Interfaces/Assignments/Zoo%20(part%202).pdf)
