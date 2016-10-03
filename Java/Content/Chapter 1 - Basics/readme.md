@@ -21,7 +21,7 @@ We recommend you to finish the reading list and the given exercies in 2 weeks (`
 1. [Some cute Java exercises for practising syntax](http://codingbat.com/java)
 2. [More cute Java exercises](http://www.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html#zz-2.)
 
-## [Assignments](https://github.com/JavaSummer/JavaMainRepo/tree/master/Content/Chapter%201%20-%20Basics/Assignments)
+## [Assignments](https://github.com/OOP-30221/OOP-2016/tree/master/Java/Content/Chapter%201%20-%20Basics/Assignments)
 - 1.1 - [Sum of multiples](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Content/Chapter%201%20-%20Basics/Assignments/Assignment%201.1%20-%20Sum%20of%20multiples.pdf)
 - 1.2 - [Fibonacci even sum](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Content/Chapter%201%20-%20Basics/Assignments/Assignment%201.2%20-%20Fibonacci%20even%20sum.pdf)
 - 1.3 - [Largest palindrome](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Content/Chapter%201%20-%20Basics/Assignments/Assignment%201.3%20-%20Largest%20palindrome.pdf)
