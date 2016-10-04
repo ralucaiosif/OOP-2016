@@ -26,7 +26,6 @@
 - #### Java & Eclipse must-haves
     * [Installing Java JDK + Eclipse IDE](https://www.youtube.com/watch?v=CPGKMDvCUN4)
     * [Eclipse + Checkstyle Plug-in](https://www.youtube.com/watch?v=xPYOwSmmRrQ)
-##
 
 ### Structure
  <pre>
