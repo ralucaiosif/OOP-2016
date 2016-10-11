@@ -1,7 +1,7 @@
 package myFirstAssignment;
 
 public class SecondProblem {
-
+ 
 	public static void main(String[] args) {
 		int first=1,second=1,third=2,sum=0;
 		while (third<4000000) {

@@ -1,7 +1,7 @@
 package myFirstAssignment;
 import java.util.*;
 
-public class FirstProblem {
+public class FirstProblem { 
 	
 	public static void main(String[] args) {
 		int sum=0;

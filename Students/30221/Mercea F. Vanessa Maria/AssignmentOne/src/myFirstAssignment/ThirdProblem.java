@@ -13,7 +13,7 @@ public class ThirdProblem {
 		else
 			return 0;
 	}
-	
+	 
 	public static void main(String[] args) {
 		int foundLargest=0,i=999,j=999,product=1,largest=0,lowerLimit=900,termOne=0,termTwo=0;
 		while (foundLargest==0 && i>=lowerLimit) {
