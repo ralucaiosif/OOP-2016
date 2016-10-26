@@ -30,7 +30,7 @@ public class MainController {
 		input.close();
 		String[] animalArray= new String[]
 			{"Cow","Monkey", "Butterfly", "Chameleon", "Cockroach","Crocodile", "Dolphin", "Eagle", "Lizard", "Ostrich","Phoenix","Shark","Spider","Tiger", "Tuna"};
-		for (int i=0; i<=n; i++)
+		for (int i=0; i<n; i++)
 		{
 			int randNum=(int) (Math.random()*14+1);
 			String randAnimal=animalArray[randNum];
@@ -134,6 +134,31 @@ public class MainController {
 				System.out.println(a1.getName()+":\n"+
 									a1.getNrOfLegs()+" legs, "+
 									((Chameleon)a1).getLaysEggs()+"- lays eggs\n");
+				break;
+			}
+			// aquatics
+			case "Tuna":{
+				Animal a1=aquaFactory.getAnimal(Constants.Animals.Aquatics.Tuna);
+				System.out.println(a1.getName()+":\n"+
+									a1.getNrOfLegs()+" legs, "+
+									((Tuna)a1).getAvgSwimDepth()+"- average swim depth, "+ 
+									((Tuna)a1).getWaterType());
+				break;
+			}
+			case "Dolphin":{
+				Animal a1=aquaFactory.getAnimal(Constants.Animals.Aquatics.Dolphin);
+				System.out.println(a1.getName()+":\n"+
+									a1.getNrOfLegs()+" legs, "+
+									((Dolphin)a1).getAvgSwimDepth()+"- average swim depth, "+ 
+									((Dolphin)a1).getWaterType());
+				break;
+			}
+			case "Shark":{
+				Animal a1=aquaFactory.getAnimal(Constants.Animals.Aquatics.Shark);
+				System.out.println(a1.getName()+":\n"+
+									a1.getNrOfLegs()+" legs, "+
+									((Shark)a1).getAvgSwimDepth()+"- average swim depth, "+ 
+									((Shark)a1).getWaterType());
 				break;
 			}
 			}
