@@ -10,6 +10,10 @@ public final class Constants {
 		public static final String Insects= "Insects";
 	}
 	
+		public static final class Employee{ 
+			public static final String Caretaker="Caretaker";
+		}
+		
 		public static final class Animals {
 			
 
@@ -48,6 +52,13 @@ public final class Constants {
 				public static final String Spider="SPIDER";
 			}
 
+		}
+		public static final class Employees{
+			public static final class Caretakers{
+				public static final String TCO_SUCCES="SUCCES";
+				public static final String TCO_KILLED="KIILED";
+				public static final String TCO_NO_TIME="NO_TIME";
+			}
 		}
 	}
 	
